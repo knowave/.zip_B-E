@@ -30,7 +30,7 @@ https://www.notion.so/kongom2/Team-zip-9e4ad0e0184448fc868950b076008e93
   - 신항민 (https://github.com/ssinking91)
 - 백엔드
   - 정하나 (https://github.com/hana-j)
-  - 곽태민 (https://github.com/kwak9898)
+  - 곽태민 (https://github.com/knowave)
   - 민수현 (https://github.com/SuHyeon-Eleven)
 - 디자이너
   - 서가람
@@ -46,19 +46,19 @@ https://www.notion.so/kongom2/Team-zip-9e4ad0e0184448fc868950b076008e93
 
 ## 📕주요 라이브러리
 
-| 라이브러리    | 설명                       | 버전   |
-| ------------- | -------------------------- | ------ |
-| Express       | Node.js                    | 4.17.1 |
+| 라이브러리    | 설명                                    | 버전   |
+| ------------- | --------------------------------------- | ------ |
+| Express       | Node.js                                 | 4.17.1 |
 | MYSQL         | 참조관계가 많은 데이터 특성. MySQL 적용 | 5.13.3 |
-|sequelize      |                        |7.0.0 |
-| CORS          | Request resouRce 제한      | 2.8.5  |
-| Swagger       | API 문서화                 | 4.1.6  |
-| Joi           | 유효성 검사                | 17.5.0 |
-| dotenv        | 환경변수 설정              | 10.0.0 |
-| nodemailer    | 메일 알림                  | 6.7.2  |
-| node-schedule | 노드 스케줄러              | 2.1.0  |
-| request       |                            | 2.88.2 |
-| xml-js        | xml 변환                   | 1.6.11 |
+| sequelize     |                                         | 7.0.0  |
+| CORS          | Request resouRce 제한                   | 2.8.5  |
+| Swagger       | API 문서화                              | 4.1.6  |
+| Joi           | 유효성 검사                             | 17.5.0 |
+| dotenv        | 환경변수 설정                           | 10.0.0 |
+| nodemailer    | 메일 알림                               | 6.7.2  |
+| node-schedule | 노드 스케줄러                           | 2.1.0  |
+| request       |                                         | 2.88.2 |
+| xml-js        | xml 변환                                | 1.6.11 |
 
 ---
 
@@ -73,7 +73,9 @@ https://www.notion.so/kongom2/Team-zip-9e4ad0e0184448fc868950b076008e93
 ---
 
 ## 🔥이슈 및 트러블슈팅
+
 [상세보기] (https://www.notion.so/kongom2/c3584a65c5384c9d905924317c770ec0)
+
 1. HTTP메서드 기본이지만 가장중요
 2. 크롤링 대신에 openAPI 사용한이유!
 3. GithubActions VS Jenkins
